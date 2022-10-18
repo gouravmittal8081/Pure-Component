@@ -1,0 +1,8 @@
+
+pure component is a feature in react
+
+pure component Rerendering ko rokta hai => jese bar bar kisi button ko click krne pr vo same output deta hai usi ko modify krne ke liye ham PURE COMPONENT 
+
+
+
+
